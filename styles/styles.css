@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.imgStyles {
+  width: 100%;
+}
+.galleryList {
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
